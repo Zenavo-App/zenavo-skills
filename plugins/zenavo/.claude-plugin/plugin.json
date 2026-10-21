@@ -1,0 +1,13 @@
+{
+  "name": "zenavo",
+  "version": "0.1.0",
+  "description": "Deploy, debug, roll back and configure your Zenavo projects from Claude Code, through the zenavo-mcp server.",
+  "author": {
+    "name": "Zenavo",
+    "url": "https://zenavo.app"
+  },
+  "homepage": "https://docs.zenavo.app",
+  "repository": "https://github.com/Zenavo-App/zenavo-skills",
+  "license": "Apache-2.0",
+  "keywords": ["zenavo", "deploy", "devops", "mcp"]
+}

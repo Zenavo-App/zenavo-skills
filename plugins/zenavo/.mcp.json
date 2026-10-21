@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "zenavo": {
+      "command": "zenavo-mcp"
+    }
+  }
+}

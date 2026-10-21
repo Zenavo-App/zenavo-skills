@@ -1,0 +1,17 @@
+{
+  "name": "zenavo",
+  "owner": {
+    "name": "Zenavo",
+    "url": "https://zenavo.app"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Zenavo, which deploys apps to servers you own."
+  },
+  "plugins": [
+    {
+      "name": "zenavo",
+      "source": "./plugins/zenavo",
+      "description": "Deploy, debug, roll back and configure your Zenavo projects from Claude Code, through the zenavo-mcp server."
+    }
+  ]
+}
